@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(black, #2c0030) no-repeat;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    width: 100%;
+    font-family: "Audiowide", sans-serif;
+    color: white
+}
+
+nav:hover {
+    color: #8f00e2
+}
+
+.cabeçalho {
+    align-items: center;
+    list-style-type: none;
+    padding: 45px;
+    font-size: 40px;
+    justify-content: space-between;
+    display: flex;
+}
+
+/*#sobre {
+    width: 70 px;
+    height: 50px;
+    text-align: center;
+}*/
