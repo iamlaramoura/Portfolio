@@ -1,4 +1,4 @@
-body {
+/*body {
     background: linear-gradient(black, #2c0030) no-repeat;
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ nav:hover {
     display: flex;
 }
 
-/*#sobre {
+#sobre {
     width: 70 px;
     height: 50px;
     text-align: center;
