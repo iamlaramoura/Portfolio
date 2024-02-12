@@ -4,12 +4,17 @@ body {
     padding: 0;
     min-height: 100vh;
     width: 100%;
-    font-family: "Audiowide", sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #ffffff
 }
 
 nav:hover {
-    color: #8f00e2
+    color: #8768a8
+}
+
+h1, h2 {
+    font-family: "Audiowide", sans-serif;
+    font-weight: lighter;
 }
 
 /*.cabeçalho {
